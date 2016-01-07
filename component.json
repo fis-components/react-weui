@@ -1,0 +1,10 @@
+{
+    "name": "react-weui",
+    "description": "weui for react",
+    "repos": "https://github.com/weui/react-weui.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.0.0"
+}
